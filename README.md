@@ -16,16 +16,18 @@
 Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸  
-- 🔬 Researcher on the **INFORM project**, developing AI-based food recognition systems for healthcare and sustainability, which was presented at **SPIE Optics + Photonics 2024** and later published in the **SPIE Digital Library**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
+- 🔬 Researcher on the **INFORM project**, developing AI-based food recognition systems for healthcare and sustainability, which was presented at **SPIE Optics + Photonics 2024** and published in the **SPIE Digital Library**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
 - 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact  
 
 ---
 
 ## 🔬 Projects  
 
-**[INFORM Project](https://github.com/inesruizblach/INFORM-Project)** (Feb – Jun 2024)  
-- Built an **AI-based food recognition and segmentation system** running on IoT devices (Raspberry Pi)  
-- Research included in SPIE conference paper: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
+**[INFORM Project](https://github.com/inesruizblach/INFORM-Project)** – Major Project & Dissertation (Feb – Jun 2024)  
+- Developed an **AI-based food recognition and segmentation system** capable of accurately labeling food items and running on IoT-based devices (Raspberry Pi)  
+- Implemented and fine-tuned **YOLOv8, EdgeSAM, and MobileSAM** models, trained on both public (FoodSeg103) and proprietary datasets  
+- Achieved competitive segmentation metrics: **mIoU, mAcc, aAcc**  
+- Research contributed to the paper [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247), presented at **SPIE Optics + Photonics 2024** (San Diego, California, US) and published in the **SPIE Digital Library**  
   - Authors: Rainey J, Blach IR, MacLachlan D, Wannan J, Bhowmik D  
   - Conference: Applications of Digital Image Processing XLVII, SPIE, 2024  
   - License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
