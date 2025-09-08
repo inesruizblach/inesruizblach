@@ -43,7 +43,13 @@ Graduate Software Engineer with a **First-Class Honours in Computer Science** fr
 - Generates **synthetic human portraits** from text prompts, customizable by age, gender, expression, and artistic style.  
 - Offers **artistic filters**: watercolour, comic, cyberpunk, oil painting.  
 - Runs interactively in-browser via **Gradio**; [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/inesruizblach/PersonaGen).
-- **Tech Stack:** Python 3.9+, PyTorch, Hugging Face Diffusers, Gradio.  
+- **Tech Stack:** Python 3.9+, PyTorch, Hugging Face Diffusers, Gradio.
+
+**[SinGlu](https://github.com/inesruizblach/SinGlu)** – Gluten-Free Recipe Generator 🍲  
+- Inspired by the challenges of following a **gluten-free diet**, this AI-powered app generates recipes based on available ingredients and provides smart substitutions for common gluten-containing items.  
+- Offers **product recommendations** to help users source gluten-free ingredients.  
+- Uses the **Hugging Face chat completion API** (zephyr-7b-beta) for recipe generation and runs interactively in-browser via **Streamlit**; [Live demo](https://share.streamlit.io/inesruizblach/SinGlu).  
+- **Tech Stack:** Python 3.10+, Streamlit, Hugging Face Inference API, Requests, JSON configuration for product links, GitHub + Streamlit Cloud for deployment  
 
 ---
 
