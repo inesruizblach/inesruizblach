@@ -16,9 +16,9 @@
 Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸  
-- 🔬 Researcher on the INFORM project, developing food recognition systems for healthcare & sustainability  
-- ✨ Published work at **SPIE Optics + Photonics 2024**: *Food recognition and segmentation using embedded hardware*
-- 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact.  
+- 🔬 Researcher on the INFORM project, developing AI-based food recognition systems for healthcare and sustainability  
+- ✨ Published work at **SPIE Optics + Photonics 2024**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
+- 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact  
 
 ---
 
@@ -41,8 +41,11 @@ Graduate Software Engineer with a **First-Class Honours in Computer Science** fr
 ## 🔬 Projects  
 
 **[INFORM Project](https://github.com/inesruizblach/INFORM-Project)** (Feb – Jun 2024)  
-- Developed an **AI-based food recognition and segmentation system** running on IoT devices (Raspberry Pi)  
-- Research included in SPIE conference paper: *Food recognition and segmentation using embedded hardware*  
+- Built an **AI-based food recognition and segmentation system** running on IoT devices (Raspberry Pi)  
+- Research included in SPIE conference paper: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
+  - Authors: Rainey J, Blach IR, MacLachlan D, Wannan J, Bhowmik D  
+  - Conference: Applications of Digital Image Processing XLVII, SPIE, 2024  
+  - License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
 - **Tech Stack:** Python, TensorFlow, PyTorch, OpenCV, YOLO, Raspberry Pi  
 
 **[Morphix](https://github.com/inesruizblach/Morphix)** – Portrait Style Transformation with Stable Diffusion + ControlNet  
