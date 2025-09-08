@@ -16,27 +16,10 @@
 Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸  
-- 🔬 Researcher on the INFORM project, developing AI-based food recognition systems for healthcare and sustainability  
-- ✨ Published work at **SPIE Optics + Photonics 2024**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
+- 🔬 Researcher on the **INFORM project**, developing AI-based food recognition systems for healthcare and sustainability, which was presented at **SPIE Optics + Photonics 2024** and later published in the **SPIE Digital Library**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247)  
 - 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact  
 
 ---
-
-## 💼 Experience  
-
-### Graduate Software Engineer · **Nomura**  
-*London, UK | Jul 2024 – Present*  
-- Develop and maintain a Risk & Trading platform (Python, VBA, Excel-based frontend)  
-- Enhance Access Control services (Python backend, React frontend)  
-- Migrate legacy VB6 components to Python, ensuring scalability and maintainability  
-
-### Technology Industrial Placement Intern · **Nomura**  
-*London, UK | Jun 2022 – Jun 2023*  
-- Contributed to backend and frontend improvements, Agile delivery, and production support  
-- Collaborated with global teams using Jira, Git, and Agile methodology  
-
----
-
 
 ## 🔬 Projects  
 
