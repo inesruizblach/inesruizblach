@@ -15,7 +15,8 @@
 
 Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
 
-- 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸  
+- 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸
+- 🖥️  See my Personal Website at [Inés Ruiz](http://localhost:5173/inesruizblach.github.io/)
 - 🔬 Researcher on the **INFORM project**, developing AI-based food recognition systems for healthcare and sustainability, which was presented at **SPIE Optics + Photonics 2024** and published in the **SPIE Digital Library**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247).  
 - 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact.  
 
@@ -44,6 +45,21 @@ Graduate Software Engineer with a **First-Class Honours in Computer Science** fr
 - Offers **artistic filters**: watercolour, comic, cyberpunk, oil painting.  
 - Runs interactively in-browser via **Gradio**; [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/inesruizblach/PersonaGen).
 - **Tech Stack:** Python 3.9+, PyTorch, Hugging Face Diffusers, Gradio.
+
+**[LiteBank API](https://github.com/inesruizblach/LiteBank)** – Modern Lightweight Banking API 🏦  
+- LiteBank is a **lightweight banking API** built with **FastAPI** and **SQLAlchemy**, designed to handle user accounts, transactions, and secure financial operations with **JWT authentication**.  
+- Deployed automatically via **GitHub Actions → Render CI/CD pipeline**.  
+- **Live Deployment:**  
+  - 🌐 [Interactive API Docs](https://litebank.onrender.com/docs)  
+  - 🩺 [Health Check](https://litebank.onrender.com/healthz)  
+- **Features:**  
+  - 👤 Create and manage user profiles  
+  - 💰 Deposit and withdraw funds  
+  - 🔄 Transfer money between accounts  
+  - 🧾 View transaction history  
+  - 🔐 JWT-based authentication  
+  - 🐳 Dockerized for easy deployment  
+- **Tech Stack:** Python · FastAPI · SQLAlchemy · JWT · Docker · GitHub Actions · Render
 
 **[SinGlu](https://github.com/inesruizblach/SinGlu)** – Gluten-Free Recipe Generator 🍲  
 - Inspired by the challenges of following a **gluten-free diet**, this AI-powered app generates recipes based on available ingredients and provides smart substitutions for common gluten-containing items.  
