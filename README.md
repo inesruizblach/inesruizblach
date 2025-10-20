@@ -16,7 +16,7 @@
 Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸
-- 🖥️  See my Personal Website at [Inés Ruiz](http://localhost:5173/inesruizblach.github.io/)
+- 🖥️  See my Personal Website at [Inés Ruiz](https://inesruizblach.github.io/)
 - 🔬 Researcher on the **INFORM project**, developing AI-based food recognition systems for healthcare and sustainability, which was presented at **SPIE Optics + Photonics 2024** and published in the **SPIE Digital Library**: [*Food recognition and segmentation using embedded hardware*](https://doi.org/10.1117/12.3031247).  
 - 🧠 Passionate about building intelligent systems that blend **software engineering, AI, and computer vision** for real-world impact.  
 
