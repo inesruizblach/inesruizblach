@@ -1,6 +1,6 @@
 # Hi there, I’m Inés 👋  
 
-**Graduate Software Engineer | Computer Vision & Machine Learning Enthusiast**  
+**Analyst, Sr. Software Engineer | Computer Vision & Machine Learning Enthusiast**  
 
 📍 UK · Spain  
 📧 You can contact me at inesruizblach@gmail.com
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me  
 
-Graduate Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University.  
+Analyst, Sr. Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University. 
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸
 - 🖥️  See my Personal Website at [Inés Ruiz](https://inesruizblach.github.io/)
