@@ -1,6 +1,6 @@
 # Hi there, I’m Inés 👋  
 
-**Analyst, Sr. Software Engineer | Computer Vision & Machine Learning Enthusiast**  
+**ASr. Software Engineer | Computer Vision & Machine Learning Enthusiast**  
 
 📍 UK · Spain  
 📧 You can contact me at inesruizblach@gmail.com
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me  
 
-Analyst, Sr. Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University. 
+Sr. Software Engineer with a **First-Class Honours in Computer Science** from Newcastle University. 
 
 - 🌍 Based in London, UK 🇬🇧 but originally from Mallorca, Spain 🇪🇸
 - 🖥️  See my Personal Website at [Inés Ruiz](https://inesruizblach.github.io/)
@@ -53,13 +53,22 @@ Analyst, Sr. Software Engineer with a **First-Class Honours in Computer Science*
   - 🌐 [Interactive API Docs](https://litebank.onrender.com/docs)  
   - 🩺 [Health Check](https://litebank.onrender.com/healthz)  
 - **Features:**  
-  - 👤 Create and manage user profiles  
-  - 💰 Deposit and withdraw funds  
-  - 🔄 Transfer money between accounts  
-  - 🧾 View transaction history  
-  - 🔐 JWT-based authentication  
-  - 🐳 Dockerized for easy deployment  
+  - Create and manage user profiles  
+  - Deposit and withdraw funds  
+  - Transfer money between accounts  
+  - View transaction history  
+  - JWT-based authentication  
+  - Dockerized for easy deployment  
 - **Tech Stack:** Python · FastAPI · SQLAlchemy · JWT · Docker · GitHub Actions · Render
+
+**[RateFlow](https://github.com/inesruizblach/RateFlow)** – Automated Currency Data Pipeline 💱  
+- **RateFlow** is a lightweight, end-to-end data pipeline that automatically fetches live currency exchange rates from open APIs and visualises historical trends in an interactive dashboard.  
+- **Features:**  
+  - Automated ETL: Extracts, transforms, and loads daily exchange rate data.  
+  - Uses **Frankfurter API** for real-time currency data.  
+  - Local storage with **SQLite** for persistence and analysis.  
+  - Interactive **Streamlit dashboard** for exploring currency trends over time.  
+- **Tech Stack:** Python 3 · Pandas · SQLAlchemy · SQLite · Streamlit · Requests · Altair  
 
 **[SinGlu](https://github.com/inesruizblach/SinGlu)** – Gluten-Free Recipe Generator 🍲  
 - Inspired by the challenges of following a **gluten-free diet**, this AI-powered app generates recipes based on available ingredients and provides smart substitutions for common gluten-containing items.  
@@ -71,14 +80,17 @@ Analyst, Sr. Software Engineer with a **First-Class Honours in Computer Science*
 
 ## 🛠️ Technical Skills  
 
-**Programming & Frameworks:**  
-Python · SQL · VBA · JavaScript (React) · Flask · Pytest · Tkinter  
+**Programming & Frameworks:**<br>
+Python · JavaScript (React) · Flask · VBA · SQL · Tkinter · Pytest
 
-**AI & Data:**  
-Machine Learning · Deep Learning · TensorFlow · PyTorch · OpenCV · YOLO · Stable Diffusion · ControlNet · Gradio · Computer Vision · Image Processing  
+**AI & Machine Learning:**<br>
+NumPy · Pandas · Machine Learning · Deep Learning · Computer Vision · Image Processing
 
-**Tools & Platforms:**  
-Git · GitHub · Jira · Jupyter Notebook · Google Colab · Visual Studio Code · PyCharm · Excel (Macros) · Hugging Face  
+**Tools & Platforms:**<br>
+Git · GitHub · Jupyter Notebook · PyCharm · Visual Studio Code · Excel (Macros) · Jira · CI/CD Pipelines
+
+**Methodologies & Soft Skills:**<br>
+Agile · Scrum · Software Testing & Documentation · Project Management · Analytical Thinking · Problem-Solving · Effective Communication · Team Collaboration
 
 ---
 
