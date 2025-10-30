@@ -1,6 +1,6 @@
 # Hi there, I’m Inés 👋  
 
-**ASr. Software Engineer | Computer Vision & Machine Learning Enthusiast**  
+**Sr. Software Engineer | Computer Vision & Machine Learning Enthusiast**  
 
 📍 UK · Spain  
 📧 You can contact me at inesruizblach@gmail.com
