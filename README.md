@@ -80,17 +80,20 @@ Sr. Software Engineer with a **First-Class Honours in Computer Science** from Ne
 
 ## 🛠️ Technical Skills  
 
-**Programming & Frameworks:**<br>
-Python · JavaScript (React) · Flask · VBA · SQL · Tkinter · Pytest
+**Programming Languages & Frameworks:** <br>
+Python · SQL · VBA · JavaScript (React) · Flask · FastAPI · Tkinter · Streamlit · Gradio · SQLAlchemy · Pytest
 
-**AI & Machine Learning:**<br>
-NumPy · Pandas · Machine Learning · Deep Learning · Computer Vision · Image Processing
+**Data Science & AI:** <br>
+Machine Learning · Deep Learning · Computer Vision · Image Processing · Generative AI · TensorFlow · PyTorch · Hugging Face · OpenCV · YOLO · CNN · Stable Diffusion · ControlNet · Scikit-Learn · ETL
 
-**Tools & Platforms:**<br>
-Git · GitHub · Jupyter Notebook · PyCharm · Visual Studio Code · Excel (Macros) · Jira · CI/CD Pipelines
+**Data Analysis & Visualization:** <br>
+NumPy · Pandas · Matplotlib · Seaborn · Altair
 
-**Methodologies & Soft Skills:**<br>
-Agile · Scrum · Software Testing & Documentation · Project Management · Analytical Thinking · Problem-Solving · Effective Communication · Team Collaboration
+**DevOps & Tools:** <br>
+Git · GitHub · GitHub Actions · Docker · Jira · Jupyter Notebook · Google Colab · Visual Studio Code · PyCharm · Excel (Macros) · Render · Requests · JSON · CI/CD Pipelines
+
+**Methodologies & Soft Skills:** <br>
+Agile Methodology · Scrum · Software Testing & Documentation · Project Management · Analytical Thinking · Problem-Solving · Effective Communication · Team Collaboration
 
 ---
 
